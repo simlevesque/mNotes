@@ -1,0 +1,26 @@
+{
+  "name": "mNotes",
+  "version": "1.0.0",
+  "description": "mNotes is a minimal isomorphic library. You input a note, mNotes outputs the frequency as a number. Multiple input formats are allowed. Nine octaves, from 0 to 9.",
+  "main": "mNotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+	"mNotes",
+    "notes",
+	"frequency",
+	"frequencies",
+	"music",
+	"musical",
+	"harmony",
+	"octaves",
+	"intonation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:simlevesque/mNotes.git"
+  },
+  "author": "Simon Lévesque",
+  "license": "GPLv3"
+}

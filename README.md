@@ -1,6 +1,6 @@
 # mNotes
 ### What is it ?
-mNotes is a minimal isomorphic library. You input a note, mNotes outputs the frequency as a number. Multiple input formats are allowed. Nine octaves, from 0 to 9.
+mNotes is a minimal isomorphic library. You input a note, mNotes outputs the frequency as a number. Multiple input formats are allowed. Nine octaves, from 0 to 8.
 ### How can I use it ?
 #### Client-side
     mNotes.get('D4#') // returns 311.13

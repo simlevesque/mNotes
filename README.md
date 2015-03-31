@@ -10,8 +10,8 @@ Install it using NPM : `npm install mnotes`
     var mNotes = require('mNotes');
     mNotes.get('D4#') // returns 311.13
 #### Input formats
-    mNotes.get('d4#') // It can be one string
-    mNotes.get('d', 4, '#') // Or three arguments
+    mNotes.get('D4#') // It can be one string
+    mNotes.get('d', 4, '#') // Or three arguments, capitals are optional
     mNotes.get('4d#') // The ordering of the two first arguments (note and octave) is your choice
     mNotes.get(4, 'd') // If your note has no intonation you can ommit it
     mNotes.get('d4n') // You can also signify that there is no intonation with 'n'
